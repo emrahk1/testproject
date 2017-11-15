@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "do_objectID": "8D232D90-C94F-4F29-A474-692394107D46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 231,
+    "width": 529,
+    "x": 68,
+    "y": 212
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6CF9E103-D6A2-4054-AAD9-8F5705DD93C6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B689A659-B615-45B2-967C-EDA590A33653"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0C9BFCA1-93D6-4FCE-A316-7F1AB46A04BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8D8A8A8A-371A-4A05-8FC4-31E842A50197"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "40B48399-FC45-4F3A-9406-BBAB80D38A5E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5C5A2E43-83D0-4862-AB21-CC2254EA1121"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "18707515-DD40-40EB-A253-F2183966E3F2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B6CB4A57-5E60-46DE-9724-BC4349A27B9B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EA3E98B7-290F-4C79-9BF4-F2AA4379FCEC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3E7875D3-B92F-4A0A-84FC-126E29BA8DCA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CEE99F9E-E161-43BD-A855-CEBB68A9EB4D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC1E6B80-2D49-4BCC-B862-11233C42285F"
+    }
+  ],
+  "name": "Group 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5600000023841858
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

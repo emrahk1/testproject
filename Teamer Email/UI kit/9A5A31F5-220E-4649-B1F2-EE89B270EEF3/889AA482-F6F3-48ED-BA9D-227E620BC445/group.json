@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "do_objectID": "889AA482-F6F3-48ED-BA9D-227E620BC445",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 46,
+    "width": 120,
+    "x": 290,
+    "y": 853
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "812EE7ED-0A67-4DB8-8ADB-DB6120F885DA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4628033C-5A47-4DD5-AFD4-3712D227A6D7"
+    },
+    {
+      "class": "group",
+      "id": "CC47A598-833A-4516-8F2D-3404CD68393C"
+    }
+  ],
+  "name": "Group 12 Copy 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 9,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2418195199275362,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 4,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

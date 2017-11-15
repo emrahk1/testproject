@@ -1,0 +1,117 @@
+{
+  "_class": "group",
+  "do_objectID": "94AAE0C0-9F69-40B8-B54E-C2B587FDA6F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 117,
+    "width": 200,
+    "x": 2513,
+    "y": 735
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "119C52A9-8217-4DBC-B98A-39A9B9646539"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D51CCB89-997E-4AFD-A058-D36CE498C351"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "883DCD68-7ACE-41EE-B1AE-7D188F9F6530"
+    },
+    {
+      "class": "group",
+      "id": "BF563A96-B402-46A2-81F3-FCD594EAF38D"
+    },
+    {
+      "class": "group",
+      "id": "622A430B-24B1-4639-8343-AA69A4D69C25"
+    }
+  ],
+  "name": "Dropdown club Copy 4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2457482993197279,
+          "green": 0.1901162006258732,
+          "red": 0.1623001512789459
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7725490196078432,
+          "green": 0.7725490196078432,
+          "red": 0.7725490196078432
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

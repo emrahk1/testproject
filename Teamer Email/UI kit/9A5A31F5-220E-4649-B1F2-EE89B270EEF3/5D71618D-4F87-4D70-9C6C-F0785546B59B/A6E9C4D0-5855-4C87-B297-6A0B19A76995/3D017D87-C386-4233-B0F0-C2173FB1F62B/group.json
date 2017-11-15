@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "3D017D87-C386-4233-B0F0-C2173FB1F62B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12.10344827586207,
+    "width": 9,
+    "x": 0,
+    "y": 2.017241379310345
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "72C3D1FC-D379-4672-854C-64AD338F6100"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AB782460-C47B-4870-B799-021550F7DFA2"
+    }
+  ],
+  "name": "rubbish-bin",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

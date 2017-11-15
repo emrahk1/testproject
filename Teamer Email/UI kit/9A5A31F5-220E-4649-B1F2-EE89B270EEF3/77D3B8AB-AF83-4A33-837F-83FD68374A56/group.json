@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "77D3B8AB-AF83-4A33-837F-83FD68374A56",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 104,
+    "x": 1010,
+    "y": 1402
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EDD826F7-1BAF-4CA0-A57C-026AD6195B3D"
+    },
+    {
+      "class": "text",
+      "id": "2636B2A3-BC49-4BEB-B33C-74173C50D0CD"
+    }
+  ],
+  "name": "Join a Club Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

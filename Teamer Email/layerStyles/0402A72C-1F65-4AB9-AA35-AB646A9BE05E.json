@@ -1,0 +1,38 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "0402A72C-1F65-4AB9-AA35-AB646A9BE05E",
+  "name": "Social Icon Shape",
+  "value": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.33333741764182,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "0402A72C-1F65-4AB9-AA35-AB646A9BE05E",
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9019607843137255,
+    "green": 0.9019607843137255,
+    "red": 0.9019607843137255
+  },
+  "do_objectID": "E97A0F2C-BFEE-4119-B4D2-803917286533",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1000,
+    "width": 675,
+    "x": 6269,
+    "y": 7480
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "92572B80-B891-4A68-833D-3B5A55F76745"
+    },
+    {
+      "class": "text",
+      "id": "DEDE91B3-82DD-406F-8E4C-CE47D472F643"
+    },
+    {
+      "class": "text",
+      "id": "9A77102C-B5A9-433A-944F-FC714A5BA9A7"
+    },
+    {
+      "class": "group",
+      "id": "0CF97942-71DE-4F2B-AFEE-C1170F5CC20F"
+    },
+    {
+      "class": "text",
+      "id": "271968A2-7A57-4AAB-B41A-B3C78F04DAD9"
+    },
+    {
+      "class": "text",
+      "id": "F19FEF62-BCDA-4ED4-B25F-A94AF7B7E3EC"
+    },
+    {
+      "class": "text",
+      "id": "6C5ADBA5-5589-4A88-9142-08238065F640"
+    },
+    {
+      "class": "text",
+      "id": "010B374A-8EC8-408B-BCE3-AC72BDA71F48"
+    },
+    {
+      "class": "text",
+      "id": "B520769E-B5A0-4CBE-9ED7-85B0161295D9"
+    },
+    {
+      "class": "text",
+      "id": "8D089BFB-7862-4918-9E87-6248ED5F66F1"
+    },
+    {
+      "class": "bitmap",
+      "id": "61C35B4B-160F-4020-A9FE-36B547B04BB9"
+    },
+    {
+      "class": "text",
+      "id": "96B711EE-7C88-45F2-8414-83EBB810BFD3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F917A3A8-2810-4C90-8C67-6D2E437DC442"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9ECFE14A-988F-459A-B1F3-028C72DA27B7"
+    },
+    {
+      "class": "text",
+      "id": "F27B03E1-3872-4E00-8599-39B09097CD63"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E495CDB-5542-4E3A-8EDA-DAC0957FC132"
+    },
+    {
+      "class": "group",
+      "id": "7B1E7217-5248-43A6-BAB1-DCE00F533ACD"
+    }
+  ],
+  "name": "eamil team joined to other club",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

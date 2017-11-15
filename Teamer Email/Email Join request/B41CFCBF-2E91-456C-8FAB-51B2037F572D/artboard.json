@@ -1,0 +1,143 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9019607843137255,
+    "green": 0.9019607843137255,
+    "red": 0.9019607843137255
+  },
+  "do_objectID": "B41CFCBF-2E91-456C-8FAB-51B2037F572D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1102,
+    "width": 675,
+    "x": 6858,
+    "y": 1284
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F9CCFBC3-1FDE-4B1B-9611-1F1F8E09EEE6"
+    },
+    {
+      "class": "group",
+      "id": "84731ACA-4821-4796-B515-DCDFCE668970"
+    },
+    {
+      "class": "text",
+      "id": "CAFEC474-7017-4429-99D9-416AEFE63FEB"
+    },
+    {
+      "class": "text",
+      "id": "E1C0B3BE-3D38-4643-8D2C-E20FC014B23B"
+    },
+    {
+      "class": "text",
+      "id": "FE4C0621-71D9-4A13-A1D3-B5BD9B5E62C3"
+    },
+    {
+      "class": "group",
+      "id": "DAEB13FE-FFC2-42A4-AF17-E14A23E04593"
+    },
+    {
+      "class": "group",
+      "id": "F50ADF57-8225-4B41-AFBF-ECC9D4BD5594"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "65FC53A7-581C-4CB6-9A20-1BE47A1255FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "41087B0E-F7F1-4DA5-B279-07319893EB25"
+    },
+    {
+      "class": "text",
+      "id": "6E20C138-4FC5-43D9-A084-98F6D9B97313"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3067A836-9A0F-48B2-8DF8-BF8FE7429D67"
+    },
+    {
+      "class": "group",
+      "id": "99EEF0D1-CC09-46DF-B04F-78DCCD7E0F8E"
+    },
+    {
+      "class": "group",
+      "id": "7061055F-B0B1-4126-8DFF-B147724FDE16"
+    }
+  ],
+  "name": "Email creating new club website warning",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

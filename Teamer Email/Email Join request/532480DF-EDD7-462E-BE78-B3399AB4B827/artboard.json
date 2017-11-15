@@ -1,0 +1,162 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9019607843137255,
+    "green": 0.9019607843137255,
+    "red": 0.9019607843137255
+  },
+  "do_objectID": "532480DF-EDD7-462E-BE78-B3399AB4B827",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1000,
+    "width": 675,
+    "x": 3801,
+    "y": -37
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1910B262-B1F2-4AB6-AFD4-381971228A76"
+    },
+    {
+      "class": "group",
+      "id": "CDBE5FB0-309E-4912-82FC-98912D586636"
+    },
+    {
+      "class": "text",
+      "id": "45AD8179-274D-438F-935C-70BFBEC46485"
+    },
+    {
+      "class": "group",
+      "id": "F68D0AEC-B28A-4E78-A37E-703439172393"
+    },
+    {
+      "class": "group",
+      "id": "F2FB04EE-6D13-4FD2-955A-8846C4FD9023"
+    },
+    {
+      "class": "text",
+      "id": "FBFA5E61-95E5-465B-939E-034E35B2E8FB"
+    },
+    {
+      "class": "text",
+      "id": "B4105F8A-387B-4C40-8631-312D093AFB8D"
+    },
+    {
+      "class": "text",
+      "id": "AFC00A9E-F9EE-4232-B8B0-8F9F02C97FCA"
+    },
+    {
+      "class": "text",
+      "id": "416788AC-62DC-47C6-B247-E35A6A7076E8"
+    },
+    {
+      "class": "text",
+      "id": "60CEC527-FE3C-4B0C-B675-29538C674FBD"
+    },
+    {
+      "class": "text",
+      "id": "73151914-0801-44C8-BE5C-39254FBA1792"
+    },
+    {
+      "class": "bitmap",
+      "id": "BC0617A8-3B21-48AE-8C6E-EEF1AA16D8E2"
+    },
+    {
+      "class": "text",
+      "id": "2D209A73-EE50-4B88-8C69-656444E2E761"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6851FA3F-6E32-46E1-B9C1-BFF8E9196F35"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9BDBA0F6-B367-41BC-9DB8-D0C80FCD0A09"
+    },
+    {
+      "class": "text",
+      "id": "D46D549B-F97A-4C9E-BDE9-DE28FA6DCC40"
+    },
+    {
+      "class": "text",
+      "id": "AD64B763-B949-4913-AD72-1BF136B5C471"
+    },
+    {
+      "class": "text",
+      "id": "ECF6BA9C-F210-453E-8392-2B29EFB5ADC3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A5BCAAD-B004-4664-9D36-5772062C9872"
+    },
+    {
+      "class": "group",
+      "id": "C49485AF-E70D-4E3B-8551-568166B1194F"
+    }
+  ],
+  "name": "email team declines",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
